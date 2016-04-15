@@ -1,6 +1,6 @@
 # Coding the Build
 
-This repository contains the sources used for the presentation that is available at codethebuild.github.io/slides/#/
+This repository contains the sources used for the presentation that is available at https://codethebuild.github.io/slides/
 
 ## Setup you build eco-system
 1. Install docker and docker-compose, on Mac use dinghy
